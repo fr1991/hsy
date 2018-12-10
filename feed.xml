@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Healthsy®</title>
+    <link href="https://fr1991.github.io/hsy/feed.xml" rel="self" />
+    <link href="https://fr1991.github.io/hsy" />
+    <updated>2018-12-10T14:22:39-05:00</updated>
+    <author>
+        <name>Fred</name>
+    </author>
+    <id>https://fr1991.github.io/hsy</id>
+
+    <entry>
+        <title>Post 1 Title</title>
+        <author>
+            <name>Fred</name>
+        </author>
+        <link href="https://fr1991.github.io/hsy/post-1-title.html"/>
+        <id>https://fr1991.github.io/hsy/post-1-title.html</id>
+
+        <updated>2018-12-10T12:09:47-05:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://fr1991.github.io/hsy/media/posts/1/imgL.jpg" alt="" />
+                    Post 1 paragraph
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://fr1991.github.io/hsy/media/posts/1/imgL.jpg" alt="" />
+                Post 1 paragraph
+            ]]>
+        </content>
+    </entry>
+</feed>

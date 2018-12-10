@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Healthsy®",
+    "description": "",
+    "home_page_url": "https://fr1991.github.io/hsy",
+    "feed_url": "https://fr1991.github.io/hsy/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Fred"
+    },
+    "items": [
+        {
+            "id": "https://fr1991.github.io/hsy/post-1-title.html",
+            "url": "https://fr1991.github.io/hsy/post-1-title.html",
+            "title": "Post 1 Title",
+            "summary": "Post 1 paragraph",
+            "content_html": "Post 1 paragraph",
+            "image": "https://fr1991.github.io/hsy/media/posts/1/imgL.jpg",
+            "author": {
+                "name": "Fred"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-10T12:09:47-05:00",
+            "date_modified": "2018-12-10T12:09:47-05:00"
+        }
+    ]
+}
